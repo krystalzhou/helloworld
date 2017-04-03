@@ -2,4 +2,4 @@
 
 
 class world:
-    pass
+    print('world #1')
