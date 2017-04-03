@@ -3,4 +3,4 @@
 
 
 class Hello:
-    pass
+    print('changed 1')
